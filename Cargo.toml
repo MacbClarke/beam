@@ -5,5 +5,5 @@ edition = "2021"
 
 [dependencies]
 tokio = { version = "1.39.2", features = ["full"] }
-macella = { git = "https://github.com/MacbClarke/macella", rev = "aecf2a02" }
+macella = { git = "https://github.com/MacbClarke/macella", rev = "2217368" }
 
